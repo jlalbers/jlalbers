@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @jlalbers (a.k.a. Jameson)
 - 👀 I’m interested in ...
-  - Applications of AI
+  - Quantum Computing
+  - Practical AI
   - Optimization
   - Learning new languages!
 - 🌱 I’m currently learning ...
-  - Scala
+  - Nonlinear Programming
   - Functional Programming
-  - Web Development
+  - Quantum Programming
   - Distributed Systems
 - 💞️ I’m looking to collaborate on ...
-  - Proofreading your documentation
+  - Solving your optimization problems
 - 📫 How to reach me ...
   - LinkedIn: https://www.linkedin.com/in/j-albers
 
