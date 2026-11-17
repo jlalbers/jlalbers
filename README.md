@@ -1,4 +1,4 @@
-![What's the matter Dylan? The CIA got you pushing too many pencils?](https://github.com/jlalbers/jlalbers/blob/b5c2198886c0d1f9461eeb4f87cfaf48bc40c1b2/ascii-art-1x-2.png)
+![What's the matter Dylan? The CIA got you pushing too many pencils?](https://github.com/jlalbers/jlalbers/blob/da3a8713741fbbd8c63636949ddfbf903e62f601/handshake-ascii-transparent.png)
 <!---
 - 👋 Hi, I’m @jlalbers (a.k.a. Jameson)
 - 👀 I’m interested in ...
