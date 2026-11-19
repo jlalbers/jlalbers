@@ -2,17 +2,19 @@
 Source - https://stackoverflow.com/a/70200610
 Posted by Giorgos Xou, modified by community. See post 'Timeline' for change history
 Retrieved 2026-11-18, License - CC BY-SA 4.0
--->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jlalbers/jlalbers/blob/611bdcfa931d09e027657b28f799b57bbe8d6152/handshake-ascii-transparent.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jlalbers/jlalbers/blob/611bdcfa931d09e027657b28f799b57bbe8d6152/ascii-art-2026-11-19-02-20-53.png">
   <img alt="What's the matter Dylan? The CIA got you pushing too many pencils?">
 </picture>
+-->
+
+
+![What's the matter Dylan? The CIA got you pushing too many pencils?](https://github.com/jlalbers/jlalbers/blob/e186b8b4f12af52d64c69d154c4788fdf8d9c447/ascii-art-2026-11-19-02-29-07.png)
 
 <!---
-![What's the matter Dylan? The CIA got you pushing too many pencils?](https://github.com/jlalbers/jlalbers/blob/da3a8713741fbbd8c63636949ddfbf903e62f601/handshake-ascii-transparent.png)
-
 - 👋 Hi, I’m @jlalbers (a.k.a. Jameson)
 - 👀 I’m interested in ...
   - Quantum Computing
